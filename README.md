@@ -1,5 +1,8 @@
 # is-x-browser
 
+[![CI](https://github.com/ryohidaka/is-x-browser/actions/workflows/ci.yml/badge.svg)](https://github.com/ryohidaka/is-x-browser/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 JavaScript library to detect if it's an X In-app browser
 
 ## Installation

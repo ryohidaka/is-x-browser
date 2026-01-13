@@ -25,7 +25,7 @@ if (isXBrowser()) {
 
 ## Demo
 
-* [Demo](https://ryohidaka.github.io/is-x-browser/)
+- [Demo](https://x.com/ryohidaka12/status/2011097641577562591)
 
 | iOS App                                      | Android App                                      | Browser                                     |
 | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |

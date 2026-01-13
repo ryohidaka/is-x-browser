@@ -1,5 +1,6 @@
 # is-x-browser
 
+[![NPM Version](https://img.shields.io/npm/v/is-x-browser?logo=npm)](https://www.npmjs.com/package/is-x-browser)
 [![CI](https://github.com/ryohidaka/is-x-browser/actions/workflows/ci.yml/badge.svg)](https://github.com/ryohidaka/is-x-browser/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 

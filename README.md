@@ -23,6 +23,14 @@ if (isXBrowser()) {
 }
 ```
 
+## Demo
+
+* [Demo](https://ryohidaka.github.io/is-x-browser/)
+
+| iOS App                                      | Android App                                      | Browser                                     |
+| -------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
+| <img src="./images/ios-app.jpg" width=500 /> | <img src="./images/android-app.png" width=500 /> | <img src="./images/normal.png" width=500 /> |
+
 ## Contributing
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.

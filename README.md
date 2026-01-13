@@ -5,15 +5,19 @@ JavaScript library to detect if it's an X In-app browser
 ## Installation
 
 ```bash
-bun add is-x-browser
+npm i is-x-browser
 ```
 
 ## Usage
 
 ```typescript
-import { greet } from 'is-x-browser';
+import isXBrowser from 'is-x-browser';
 
-console.log(greet('World')); // Hello, World!
+if (isXBrowser()) {
+	console.log('Inside X browser');
+} else {
+	console.log('Regular browser');
+}
 ```
 
 ## Contributing

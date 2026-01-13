@@ -2,6 +2,13 @@
 	"name": "is-x-browser",
 	"version": "0.1.0",
 	"description": "JavaScript library to detect if it's an X In-app browser",
+	"keywords": [
+		"twitter",
+		"x",
+		"browser",
+		"useragent",
+		"user-agent"
+	],
 	"homepage": "https://github.com/ryohidaka/is-x-browser#readme",
 	"bugs": {
 		"url": "https://github.com/ryohidaka/is-x-browser/issues"

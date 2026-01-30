@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/ryohidaka/is-x-browser/compare/v0.1.1...v0.1.2) (2026-01-30)
+
+
+### Bug Fixes
+
+* move simple-git-hooks from postinstall to prepare ([c07ece1](https://github.com/ryohidaka/is-x-browser/commit/c07ece1ab1c87fe830d5f64c35fecabf90f385c9))
+
 ## [0.1.1](https://github.com/ryohidaka/is-x-browser/compare/v0.1.0...v0.1.1) (2026-01-25)
 
 
